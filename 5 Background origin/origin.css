@@ -1,0 +1,27 @@
+html {
+  background-color: rgb(175, 117, 93);
+}
+
+div {
+  background-image: url(onepiece.jpg);
+  font-size: 18px;
+  height: 500px;
+  width: 800px;
+  padding: 20px;
+  border: 10px dashed black;
+  background-size: cover;
+  background-position: top center;
+  background-repeat: no-repeat;
+}
+
+.content-box {
+  background-origin: content-box;
+}
+
+.padding-box {
+  background-origin: padding-box;
+}
+
+.border-box {
+  background-origin: border-box;
+}
