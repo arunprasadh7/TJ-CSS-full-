@@ -1,0 +1,10 @@
+div {
+  width: 900px;
+  height: 500px;
+  padding: 10px;
+  background: teal url(./Dota2_Anti-Mage.jpg);
+  background-size: 400px 400px;
+  color: deeppink;
+  background-repeat: no-repeat;
+  background-position: center;
+}
