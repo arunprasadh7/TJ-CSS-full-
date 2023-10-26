@@ -1,0 +1,19 @@
+html {
+  background: white;
+}
+
+body {
+  background-color: rgb(103, 109, 109);
+  background-image: url(./files/ironmanpng.png);
+  color: white;
+  background-repeat: no-repeat;
+  background-size: 500px 500px;
+  height: 800px;
+  width: 800px;
+  background-position: center;
+  background-size: cover;
+}
+
+h1 {
+  color: rgb(223, 248, 79);
+}
