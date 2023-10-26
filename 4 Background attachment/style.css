@@ -1,0 +1,11 @@
+div {
+  color: khaki;
+  font-size: 25px;
+  font-weight: bold;
+  padding: 10px;
+  background: aliceblue;
+  background-image: url(wall.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
